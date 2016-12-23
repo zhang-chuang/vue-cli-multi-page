@@ -5,7 +5,6 @@
 </template>
 
 <script>
-
 import Lib from 'assets/js/Lib.js'
 
 module.exports = {

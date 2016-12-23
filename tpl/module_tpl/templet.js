@@ -9,4 +9,4 @@ import App from './app'
 new Vue({
   el: 'body',
   components: { App }
-})
+});
